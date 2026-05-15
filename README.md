@@ -7,7 +7,7 @@ Curated papers and research map for building, evaluating, and critiquing persona
 ![docs](https://img.shields.io/badge/docs-available-blue)
 ![repo](https://img.shields.io/badge/repo-research%20map-blue)
 
-[Install](#install) • [Quick Start](#quick-start) • [Features](#features) • [Architecture](#architecture) • [Security](#security) • [Roadmap](#roadmap) • [Contributing](#contributing) • [License](#license)
+[Install](#install) • [Quick Start](#quick-start) • [Features](#features)  • [Security](#security) • [Contributing](#contributing) • [License](#license)
 
 This repository is a curated paper bundle for researchers, builders, and reviewers working on LLM persona, personalization, long-term memory, self-modeling, introspection, and related evaluation questions. It is designed for people who need a compact starting point for literature review, benchmark discovery, and research framing rather than a general-purpose dump of loosely related papers.
 
