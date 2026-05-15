@@ -2,7 +2,6 @@
 
 Curated papers and research map for building, evaluating, and critiquing persona-driven and personalized LLM agents.
 
-![build](https://img.shields.io/badge/build-n%2Fa-lightgrey)
 ![version](https://img.shields.io/badge/version-2026.05-lightgrey)
 ![license](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![docs](https://img.shields.io/badge/docs-available-blue)
@@ -45,38 +44,7 @@ Optional local setup:
 - Boundary-aware consciousness coverage: theory and introspection papers are included as functional or evaluative signals, not as proof of subjective consciousness.
 - Watchlist support: the repo tracks high-value papers that were not bundled locally because of access limits, freshness, or curation status.
 
-## Architecture
 
-This repository is organized as a research map rather than an application codebase.
-
-```text
-.
-├── 00_Index_and_notes/
-│   ├── taxonomy_CN.md
-│   ├── manifest.csv
-│   └── link_only_and_watchlist.md
-├── 01_Surveys_Frameworks/
-├── 02_Persona_RolePlaying_CharacterAgents/
-├── 03_Personalization_IndividualAlignment/
-├── 04_Memory_SelfContinuity/
-├── 05_HumanLike_SocialSimulation_Psychometrics/
-├── 06_SelfModel_Introspection_ConsciousnessAdjacent/
-├── 07_Evaluation_Validity_Safety/
-├── 08_Theory_Background_Consciousness/
-├── manifest.csv
-└── README_CN.md
-```
-
-Topic layout:
-
-- `01_Surveys_Frameworks`: surveys, taxonomies, and framing papers.
-- `02_Persona_RolePlaying_CharacterAgents`: role fidelity, character agents, and persona expression.
-- `03_Personalization_IndividualAlignment`: user modeling, preference learning, and individualized alignment.
-- `04_Memory_SelfContinuity`: long-term memory and cross-session continuity.
-- `05_HumanLike_SocialSimulation_Psychometrics`: human-like behavior, social simulation, and psychometrics.
-- `06_SelfModel_Introspection_ConsciousnessAdjacent`: self-modeling, introspection, uncertainty awareness, and related signals.
-- `07_Evaluation_Validity_Safety`: critique, validity checks, and safety concerns.
-- `08_Theory_Background_Consciousness`: theory background only, not a mainline empirical methods section.
 
 ## Security
 
@@ -88,14 +56,6 @@ This repo is low-risk from a software-execution perspective because it currently
 - Metadata integrity matters: titles, years, venues, URLs, and file paths should be updated carefully to avoid citation drift.
 - PDF provenance matters: replacements should preserve source traceability and should not swap in files from unverifiable mirrors.
 
-## Roadmap
-
-- Add an English index alongside the current Chinese notes.
-- Add lightweight scripts for manifest validation, dead-link checking, and collection stats.
-- Add topic-level summaries for each folder.
-- Add citation exports such as BibTeX or CSL JSON.
-- Add release snapshots for dated curation versions.
-- Add issue templates for paper suggestions, broken links, and metadata corrections.
 
 ## Contributing
 
